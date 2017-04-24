@@ -27,8 +27,6 @@
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Objective and Tasks](#objectiveAndTasks)
-	1. [Objectives](#objectives)
-	2. [Tasks](#tasks)
 3. [Scope](#scope)
 4. [Testing Strategy](#testingStrategy)
 	1. [Alpha Testing](#alphaTesting)
@@ -57,14 +55,14 @@
 ## 1. Introduction <a name='introduction'></a>
 #### Purpose: 
 This test plan describes the testing approach and overall framework that will drive the testing of the
-ACME Vacumm Cleaner & Anvil Co. Feedback Form site. The document introduces:
+ACME Vacumm Cleaner & Anvil Co. Feedback Form. The document introduces:
 
 - Test Strategy: rules the test will be based on, including the givens of the project (e.g.: start / end
 dates, objectives, assumptions); description of the process to set up a valid test (e.g.: entry / exit
-criteria, creation of test cases, specific tasks to perform, scheduling, data strategy).
+criteria, creation of test cases, specific tasks to perform, scheduling).
 
 - Execution Strategy: describes how the test will be performed and process to identify and report
-defects, and to fix and implement fixes
+defects, and to fix and implement fixes.
 
 - Test Management: process to handle the logistics of the test and all the events that come up
 during execution (e.g.: communications, escalation procedures, risk and mitigation, team roster)
@@ -72,15 +70,31 @@ during execution (e.g.: communications, escalation procedures, risk and mitigati
 #### Project Overview: 
 The ACME Vacuum Cleaner & Anvil Co. Feedback Form provides the company with insights from it's customers, and along with analytics helps determine customer sentiment.
 
+####Audience:
+
+- Project team members(David) perform tasks specified in this document, and provide input and
+recommendations on this document. 
+ 
+- Project Manager(Max) Plans for the testing activities in the overall project schedule, reviews the
+document, tracks the performance of the test according to the task herein specified, approves
+the document and is accountable for the results.
+
+
 #### Feedback Form Revision History:
 
 |   Date  | Version | Revised By   | Changes Made    |
 |:-------:|---------|--------------|-----------------|
 | 8/12/15 | 1.0     | Max Rasovsky | Initial Version |
 
-## 2. Objectives and Tasks <a name="objectiveAndTasks"></a>
-### 2.1 Objectives <a name="objectives"></a>
-### 2.2 Tasks <a name="tasks"></a>
+## 2. Objectives<a name="objectiveAndTasks"></a>
+
+The objective of the test is to verify that the functionality of The ACME Vacuum Cleaner & Anvil Co. Feedback Form and that it works according to the specifications.
+
+The final product of the test is twofold: 
+
+- A production-ready site
+- A set of stable and reusable tests
+
 ## 3. Scope <a name="scope"></a>
 ## 4. Testing Strategy <a name="testingStrategy"></a>
 ### 4.1 Alpha Testing <a name="alphaTesting"></a>
