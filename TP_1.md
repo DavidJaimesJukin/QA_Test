@@ -1,4 +1,4 @@
-# Test Plan: ACME Vacumm Cleaner & Anvil Co. Feedback Form
+# Test Plan: ACME Vacuum Cleaner & Anvil Co. Feedback Form
 
 ### Prepared By: David Jaimes
 #### Created: 04/24/17
@@ -94,6 +94,15 @@ The final product of the test is twofold:
 - Testing activities will build upon previous stages to avoid redundancy or duplication of effort
 - Testing will be a repeatable, quantifiable, and measurable activity
 - Testing will be divided into distinct phases, each with clearly defined objectives and goals
+- Bugs are ranked in this order: cosmetic,low, medium, high, and critical
+
+|   Severity  | Impact                                                                                                           |
+|:-----------:|------------------------------------------------------------------------------------------------------------------|
+| 1(Critical) | -It causes a lack of vital program functionality without a workaround                                            |
+| 2 (High)    | -It causes a lack of vital program functionality with workaround                                                 |
+| 3 (Medium   | -This bug prevents other areas of the product from being tested.However other areas can be independently tested. |
+| 4 (Low)     | -There is an insufficient or unclear error message, which has minimumimpact on product use                       |
+| 5(Cosmetic) | -There is an insufficient or unclear error message that has no impact on product use.                            |
 
 ## 3. Scope <a name="scope"></a>
 
