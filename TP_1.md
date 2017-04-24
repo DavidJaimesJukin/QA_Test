@@ -45,6 +45,7 @@ The purpose of this test plan is to provide a thorough guide for testing the sit
 | 8/12/15 | 1.0     | Max Rasovsky | Initial Version |
 
 ####Test Plan Revision History:
+
 |   Date  | Version | Revised By   | Changes Made    | Approved By | Approval Date|
 |:-------:|---------|--------------|-----------------|-------------|--------------|
 | 4/24/17 | 1.0     | David Jaimes | Initial Version | Pendiding   | Pending      |
