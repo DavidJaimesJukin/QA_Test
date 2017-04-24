@@ -29,7 +29,7 @@
 |:-------:|---------|---------------------------------------------|
 | 1.0     | 8/18/15 | Vacuum Cleaner & Anvil Co Feedback Form.pdf |
 | 1.0     | 4/24/17 | Functional Test Case Matrix                 |
-| 1.0     | 4/24/17 | Style/UI Test Case Matrix                   |
+| 1.0     | 4/24/17 | Style Test Case Matrix                      |
 
 
 ### Table of Contents
@@ -78,7 +78,7 @@ during execution (e.g.: communications, escalation procedures, risk and mitigati
 #### Project Overview: 
 The ACME Vacuum Cleaner & Anvil Co. Feedback Form provides the company with insights from it's customers, and along with analytics helps determine customer sentiment.
 
-####Audience:
+#### Audience:
 
 - Project team members(David) perform tasks specified in this document, and provide input and
 recommendations on this document. 
@@ -112,15 +112,39 @@ The final product of the test is twofold:
 - Testing will be divided into distinct phases, each with clearly defined objectives and goals
 
 ## 3. Scope <a name="scope"></a>
+
+The scope of this test plan is focused on the general functionality of the site and that it maintains the style as designated 
+in the PRD requirements
+
 ## 4. Testing Strategy <a name="testingStrategy"></a>
-### 4.1 Alpha Testing <a name="alphaTesting"></a>
-### 4.2 System and Integration Testing <a name="systemAndIntegrationTesting"></a>
-### 4.3 Performance and Stress Testing <a name="performanceAndStressTesting"></a>
-### 4.4 User Acceptance Testing <a name="userAccpetanceTesting"></a>
-### 4.5 Batch Testing <a name="batchTesting"></a>
-### 4.6 Automated Regressing Testing <a name="automatedRegressionTesting"></a>
-### 4.7 Beta Testing <a name="betaTesting"></a>
-## 5. Hardware Requirements <a name="hardwareRequirements"></a>
+### 4.1 Functional Testing <a name="systemAndIntegrationTesting"></a>
+#### Purpose: 
+Functional testing will be performed to check the functions of the application. 
+The functional testing is carried out by feeding the input and validates the output from the
+application.
+
+#### Scope:
+The Functional Test Case Matrix details the scope.
+
+#### Testers: 
+David Jaimes
+
+#### Method:
+Manually detailed in the Functional Test Case Matrix 
+
+### 4.2 Style and Formatting Testing <a name="userAccpetanceTesting"></a>#### Purpose: 
+#### Purpose:
+Style and formating testing will be performed to check the style of the application. 
+
+#### Scope:
+The Style Test Case Matrix details the scope.
+
+#### Testers: 
+David Jaimes
+
+#### Method:
+Manually detailed in the Functional Test Case Matrix 
+
 ## 6. Environment Requirements <a name="environmentRequirements"></a>
 ### 6.1 Main Frame <a name="mainFrame"></a>
 ### 6.2 Workstation <a name="worstation"></a>
