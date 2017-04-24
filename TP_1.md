@@ -37,18 +37,9 @@
 2. [Objective and Tasks](#objectiveAndTasks)
 3. [Scope](#scope)
 4. [Testing Strategy](#testingStrategy)
-	1. [Alpha Testing](#alphaTesting)
-	2. [System and Itegration Testing](#systemAndIntegrationTesting) 
-	3. [Performance and Stress Testing](#performanceAndStressTesting)
-	4. [User Acceptance Testing](#userAcceptanceTesting)
-	5. [Batch Testing](#batchTesting)
-	6. [Automated Regression Testing](#automatedRegressingTesting)
-	7. [Beta Testing](#betaTesting)
-5. [Hardware Requirements](#hardwareRequirements)
-6. [Environment Requirements](#environmentRequirements)
-	1. [Main Frame](#mainFrame)
-	2. [Workstation](#workstation)
-7. [Test Schedule](#testSchedule)
+	1. [Functional Testing](#functionalTesting)
+	2. [Style Testing](#styleTesting) 
+5. [Test Execution](#testExecution)
 8. [Control Procedures](#controlProcedures)
 9. [Features to Be Tested](#featuresToBeTested)
 10. [Features Not to Be Tested](#featuresNotToBeTested)
@@ -117,45 +108,44 @@ The scope of this test plan is focused on the general functionality of the site 
 in the PRD requirements
 
 ## 4. Testing Strategy <a name="testingStrategy"></a>
-### 4.1 Functional Testing <a name="systemAndIntegrationTesting"></a>
+### 4.1 Functional Testing <a name="functionalTesting"></a>
 #### Purpose: 
 Functional testing will be performed to check the functions of the application. 
 The functional testing is carried out by feeding the input and validates the output from the
 application.
 
-#### Scope:
-The Functional Test Case Matrix details the scope.
-
 #### Testers: 
 David Jaimes
 
 #### Method:
 Manually detailed in the Functional Test Case Matrix 
 
-### 4.2 Style and Formatting Testing <a name="userAccpetanceTesting"></a>#### Purpose: 
-#### Purpose:
+### 4.2 Style Testing <a name="styleTesting"></a> 
+#### Purpose:	
 Style and formating testing will be performed to check the style of the application. 
 
-#### Scope:
-The Style Test Case Matrix details the scope.
-
 #### Testers: 
 David Jaimes
 
 #### Method:
 Manually detailed in the Functional Test Case Matrix 
 
-## 6. Environment Requirements <a name="environmentRequirements"></a>
-### 6.1 Main Frame <a name="mainFrame"></a>
-### 6.2 Workstation <a name="worstation"></a>
-## 7. Test Schedule <a name="testSchedule"></a>
-## 8. Control Procedures <a name="controlProcedures"></a>
-## 9. Features to Be Tested <a name="featuresToBeTested"></a>
-## 10. Features Not to Be Tested <a name="featuresNotToBeTested"></a>
-## 11. Resources/Roles & Responsabilities <a name="resourcesRoles&Responsabilities"></a> 
-## 12. Schedules <a name="schedules"></a>
-## 13. Signifigantly Impacted Departments <a name="signifigantlyImpactedDepartments"></a>
-## 14. Dependcies <a name="dependencies"></a>
-## 15. Risks/Assumptions <a name="risksAssumptions"></a>
-## 16. Tools <a name="tools"></a>
+
+## 5. Test Execution <a name="testExecution"></a>
+### Entry Criteria
+- Required tools have been installed
+- All required components within the test environment have been initialized
+- All required Functional and Style test cases have been documented, reviewed, and validated
+
+##6. Test Review & Reporting
+### Exit Cirteria
+- All tests cases have been executed
+- All high and critical issues discovered during testing have been fixed and Functional testing has been re-run as a Regression test
+- All test results have been reviewed and approved by Max
+- All remaining low and medium issues discovered during testing have been logged
+
+## 16. Required Tools <a name="tools"></a>
+- The latest versions of Chrome, Safari, and Firefox or an plugin like(Browserstack)
+- Developer tools on chosen browser
+
 ## 17. Approvals <a name="approvals"></a>
