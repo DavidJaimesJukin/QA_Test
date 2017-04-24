@@ -38,11 +38,16 @@ The ACME Vacuum Cleaner & Anvil Co. Feedback Form provides the company with insi
 
 The purpose of this test plan is to provide a thorough guide for testing the site's style, browser compatibility, and analytics.
 
-#### Revision History:
+####Feedback Form Revision History:
 
 |   Date  | Version | Revised By   | Changes Made    |
 |:-------:|---------|--------------|-----------------|
 | 8/12/15 | 1.0     | Max Rasovsky | Initial Version |
+
+####Test Plan Revision History:
+|   Date  | Version | Revised By   | Changes Made    | Approved By | Approval Date|
+|:-------:|---------|--------------|-----------------|-------------|--------------|
+| 4/24/17 | 1.0     | David Jaimes | Initial Version | Pendiding   | Pending      |
 
 ## 2. Objectives and Tasks <a name="objectiveAndTasks"></a>
 ### 2.1 Objectives <a name="objectives"></a>
