@@ -1,4 +1,4 @@
-# Test Plan for: ACME Vacumm Cleaner & Anvil Co.
+# Test Plan for: ACME Vacumm Cleaner & Anvil Co. Feedback Form
 
 ### Prepared By: David Jaimes
 #### Created: 04/24/17
@@ -9,7 +9,7 @@
 
 |   Date  | Version | Revised By   | Changes Made    | Approved By | Approval Date|
 |:-------:|---------|--------------|-----------------|-------------|--------------|
-| 4/24/17 | 1.0     | David Jaimes | Initial Version | Pendiding   | Pending      |
+| 4/24/17 | 1.0     | David Jaimes | Initial Version | Pending     |  Pending     |
 
 #### Approvers List:
 
@@ -55,9 +55,21 @@
 17. [Approvals](#approvals)
 
 ## 1. Introduction <a name='introduction'></a>
-The ACME Vacuum Cleaner & Anvil Co. Feedback Form provides the company with insights from it's customers, and along with analytics helps determine customer sentiment.
+#### Purpose: 
+This test plan describes the testing approach and overall framework that will drive the testing of the
+ACME Vacumm Cleaner & Anvil Co. Feedback Form site. The document introduces:
+	- Test Strategy: rules the test will be based on, including the givens of the project (e.g.: start / end
+dates, objectives, assumptions); description of the process to set up a valid test (e.g.: entry / exit
+criteria, creation of test cases, specific tasks to perform, scheduling, data strategy).
 
-The purpose of this test plan is to provide a thorough guide for testing the site's style, browser compatibility, and analytics.
+	-Execution Strategy: describes how the test will be performed and process to identify and report
+defects, and to fix and implement fixes
+
+	-Test Management: process to handle the logistics of the test and all the events that come up
+during execution (e.g.: communications, escalation procedures, risk and mitigation, team roster)
+
+####Project Overview: 
+The ACME Vacuum Cleaner & Anvil Co. Feedback Form provides the company with insights from it's customers, and along with analytics helps determine customer sentiment.
 
 #### Feedback Form Revision History:
 
