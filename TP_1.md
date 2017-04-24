@@ -5,11 +5,17 @@
 #### Last Updated: 04/24/17
 #### Status: Pending Approval
 
-#### Revision History:
+#### Test Revision History:
 
 |   Date  | Version | Revised By   | Changes Made    | Approved By | Approval Date|
 |:-------:|---------|--------------|-----------------|-------------|--------------|
 | 4/24/17 | 1.0     | David Jaimes | Initial Version | Pending     |  Pending     |
+
+#### Site Revision History:
+
+|   Date  | Version | Revised By   | Changes Made    |
+|:-------:|---------|--------------|-----------------|
+| 8/12/15 | 1.0     | Max Rasovsky | Initial Version |
 
 #### Approvers List:
 
@@ -22,6 +28,8 @@
 | Version | Date    | Document Name                               |
 |:-------:|---------|---------------------------------------------|
 | 1.0     | 8/18/15 | Vacuum Cleaner & Anvil Co Feedback Form.pdf |
+| 1.0     | 4/24/17 | Functional Test Case Matrix                 |
+| 1.0     | 4/24/17 | Style/UI Test Case Matrix                   |
 
 
 ### Table of Contents
@@ -80,12 +88,6 @@ document, tracks the performance of the test according to the task herein specif
 the document and is accountable for the results.
 
 
-#### Feedback Form Revision History:
-
-|   Date  | Version | Revised By   | Changes Made    |
-|:-------:|---------|--------------|-----------------|
-| 8/12/15 | 1.0     | Max Rasovsky | Initial Version |
-
 ## 2. Objectives<a name="objectiveAndTasks"></a>
 
 The objective of the test is to verify that the functionality of The ACME Vacuum Cleaner & Anvil Co. Feedback Form and that it works according to the specifications.
@@ -94,6 +96,20 @@ The final product of the test is twofold:
 
 - A production-ready site
 - A set of stable and reusable tests
+
+### Testing Assumptions:
+
+ - Testing would be carried out once the build is ready for testing
+ - Performance testing is not considered for this plan
+ - All bugs should come with a snapshot image
+
+### Testing Principals:
+
+- Testing will focused on meeting the business objectives, cost efficiency, and quality
+- Testing processes will be well defined, yet flexible, with the ability to change as needed 
+- Testing activities will build upon previous stages to avoid redundancy or duplication of effort
+- Testing will be a repeatable, quantifiable, and measurable activity
+- Testing will be divided into distinct phases, each with clearly defined objectives and goals
 
 ## 3. Scope <a name="scope"></a>
 ## 4. Testing Strategy <a name="testingStrategy"></a>
