@@ -34,10 +34,15 @@
 17. [Approvals](#approvals)
 
 ## 1. Introduction <a name='introduction'></a>
-The ACME Vacuum Cleaner & Anvil Co. Feedback Form provides the company with insights from it's customers, and along with
-analytics helps determine customer sentiment.
+The ACME Vacuum Cleaner & Anvil Co. Feedback Form provides the company with insights from it's customers, and along with analytics helps determine customer sentiment.
 
-The Puspose of this test plan is to provide a thorough guide for testing the site's style, browser compatabilty, and analytics 
+The purpose of this test plan is to provide a thorough guide for testing the site's style, browser compatibility, and analytics.
+
+Revision History:
+|   Date  | Version | Revised By   | Changes Made    |
+|:-------:|---------|--------------|-----------------|
+| 8/12/15 | 1.0     | Max Rasovsky | Initial Version |
+
 ## 2. Objectives and Tasks <a name="objectiveAndTasks"></a>
 ### 2.1 Objectives <a name="objectives"></a>
 ### 2.2 Tasks <a name="tasks"></a>
