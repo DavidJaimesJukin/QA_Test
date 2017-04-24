@@ -40,16 +40,9 @@
 	1. [Functional Testing](#functionalTesting)
 	2. [Style Testing](#styleTesting) 
 5. [Test Execution](#testExecution)
-8. [Control Procedures](#controlProcedures)
-9. [Features to Be Tested](#featuresToBeTested)
-10. [Features Not to Be Tested](#featuresNotToBeTested)
-11. [Resources/Roles & Responsabilities](#resourcesRoles&Responsability)
-12. [Schedules](#schedules)
-13. [Signifigantly Impacted Departments](#signigifantlyImpactedDepartments)
-14. [Dependencies](#dependencies)
-15. [Risks/Assumptions](#risksAssumptions)
-16. [Tools](#tools)
-17. [Approvals](#approvals)
+6. [Test Review & Reporting](#testReview&Reporting)
+7. [Tools](#tools)
+8. [Approvals](#approvals)
 
 ## 1. Introduction <a name='introduction'></a>
 #### Purpose: 
@@ -137,15 +130,19 @@ Manually detailed in the Functional Test Case Matrix
 - All required components within the test environment have been initialized
 - All required Functional and Style test cases have been documented, reviewed, and validated
 
-##6. Test Review & Reporting
+## 6. Test Review & Reporting
 ### Exit Cirteria
 - All tests cases have been executed
 - All high and critical issues discovered during testing have been fixed and Functional testing has been re-run as a Regression test
 - All test results have been reviewed and approved by Max
 - All remaining low and medium issues discovered during testing have been logged
 
-## 16. Required Tools <a name="tools"></a>
+## 7. Required Tools <a name="tools"></a>
 - The latest versions of Chrome, Safari, and Firefox or an plugin like(Browserstack)
 - Developer tools on chosen browser
 
-## 17. Approvals <a name="approvals"></a>
+## 8. Approvals <a name="approvals"></a>
+
+| Role | Name | Signature | Date |
+|:-----|------|-----------|------|
+|      |      |           |      |
