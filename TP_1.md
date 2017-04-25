@@ -28,17 +28,14 @@
 | Version | Date    | Document Name                               |
 |:-------:|---------|---------------------------------------------|
 | 1.0     | 8/18/15 | Vacuum Cleaner & Anvil Co Feedback Form.pdf |
-| 1.0     | 4/24/17 | Functional Test Case Matrix                 |
-| 1.0     | 4/24/17 | Style Test Case Matrix                      |
+| 1.0     | 4/24/17 | Manual Test Case               |
 
 
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Objective and Tasks](#objectiveAndTasks)
 3. [Scope](#scope)
-4. [Testing Strategy](#testingStrategy)
-	1. [Functional Testing](#functionalTesting)
-	2. [Style Testing](#styleTesting) 
+4. [Testing Strategy](#testingStrategy) 
 5. [Test Execution](#testExecution)
 6. [Test Review & Reporting](#testReview&Reporting)
 7. [Tools](#tools)
@@ -98,11 +95,11 @@ The final product of the test is twofold:
 
 |   Severity  | Impact                                                                                                           |
 |:-----------:|------------------------------------------------------------------------------------------------------------------|
-| 1(Critical) | -It causes a lack of vital program functionality without a workaround                                            |
-| 2 (High)    | -It causes a lack of vital program functionality with workaround                                                 |
-| 3 (Medium   | -This bug prevents other areas of the product from being tested.However other areas can be independently tested. |
-| 4 (Low)     | -There is an insufficient or unclear error message, which has minimumimpact on product use                       |
-| 5(Cosmetic) | -There is an insufficient or unclear error message that has no impact on product use.                            |
+| Critical(1) | -It causes a lack of vital program functionality without a workaround                                            |
+| High(2)    | -It causes a lack of vital program functionality with workaround                                                 |
+| Medium(3)  | -This bug prevents other areas of the product from being tested.However other areas can be independently tested. |
+| Low(4)     | -There is an insufficient or unclear error message, which has minimumimpact on product use                       |
+| Cosmetic(5) | -There is an insufficient or unclear error message that has no impact on product use.                            |
 
 ## 3. Scope <a name="scope"></a>
 
@@ -110,28 +107,15 @@ The scope of this test plan is focused on the general functionality of the site 
 in the PRD requirements
 
 ## 4. Testing Strategy <a name="testingStrategy"></a>
-### 4.1 Functional Testing <a name="functionalTesting"></a>
+###Manual Testing 
 #### Purpose: 
-Functional testing will be performed to check the functions of the application. 
-The functional testing is carried out by feeding the input and validates the output from the
-application.
+Manual testing will be performed to check the functions and styling of the application. 
 
 #### Testers: 
 David Jaimes
 
 #### Method:
-Manually detailed in the Functional Test Case Matrix 
-
-### 4.2 Style Testing <a name="styleTesting"></a> 
-#### Purpose:	
-Style and formating testing will be performed to check the style of the application. 
-
-#### Testers: 
-David Jaimes
-
-#### Method:
-Manually detailed in the Functional Test Case Matrix 
-
+Manual
 
 ## 5. Test Execution <a name="testExecution"></a>
 ### Entry Criteria
