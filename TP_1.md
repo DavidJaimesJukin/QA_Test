@@ -133,6 +133,8 @@ Manual
 ## 7. Required Tools <a name="tools"></a>
 - The latest versions of Chrome, Safari, and Firefox or an plugin like(Browserstack)
 - Developer tools on chosen browser
+- Test documentation
+- Google Analytics Debugger or similar tool for testing event tracking
 
 ## 8. Approvals <a name="approvals"></a>
 
