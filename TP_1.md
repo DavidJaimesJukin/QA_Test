@@ -28,7 +28,8 @@
 | Version | Date    | Document Name                               |
 |:-------:|---------|---------------------------------------------|
 | 1.0     | 8/18/15 | Vacuum Cleaner & Anvil Co Feedback Form.pdf |
-| 1.0     | 4/24/17 | Manual Test Case               |
+| 1.0     | 4/24/17 | Manual Test Case                            |
+| 1.0     | 4/25/17 | Bug Report                                  |
 
 
 ### Table of Contents
